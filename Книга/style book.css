@@ -1,0 +1,56 @@
+h2{
+    text-align:center;
+     color:firebrick;
+
+}
+h1{
+    text-align: center;
+    font-size: 16px;
+    color: purple;
+}
+
+strong{
+     text-align:center;
+     color:blue;
+
+ }
+
+.main {
+    display:block;
+   width:100%;
+    background-color:lightgray;
+
+}
+p{
+
+    margin: 20px;
+
+}
+p {
+  text-indent: 20px;
+}
+a{
+    color: green;
+text-decoration: none;
+
+
+}
+.line {
+    border: none; /* Убираем границу */
+    background-color: black; /* Цвет линии */
+    color: black;
+    height: 5px;
+}
+.kur {
+    font-style: italic;
+}
+.gir{
+font-weight: bolder;
+
+}
+a{
+    font-size: 20px;
+}
+.vir{
+    text-align: justify;
+}
