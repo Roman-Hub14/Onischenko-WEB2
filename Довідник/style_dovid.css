@@ -1,0 +1,19 @@
+body{
+    color:;
+     background-image:url("1.png");
+ }
+.li{
+    font-size: 20px;
+}
+table {
+    margin-left:250px;
+    border-collapse: collapse;
+    border: 3px solid ;
+}
+th, td {
+    border: 1px solid black;
+}
+tr{
+    text-align: center;
+
+}
